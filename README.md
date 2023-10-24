@@ -16,8 +16,8 @@ I'm currently reworking the add sample function to be more user friendly. I'm al
 My final goal is to see Rock Buddy up on the Google Play store. Please keep an eye out!
 
 ## Contributors
-UI/UX design by Jordan Ireland. 
-I wrote all the code.
+UI/UX design by Jordan Ireland. \n
+I wrote all the code.\n
 For feature ideas please reach out! I can be contacted via email: elisonnathan@gmail.com. 
 Thank you!
 
