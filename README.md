@@ -11,13 +11,16 @@ After developing Rock Buddy for desktop, I wanted to create a mobile edition to 
 ## How to Run
 Users will need to install the APK on their Android device. Once installed, they will need to follow the instructures to grant the app permission to access files. Thats it! 
 
+##Screenshots
+
+
 ## Coming Soon
 I'm currently reworking the add sample function to be more user friendly. I'm also working on getting a collection filter up and running.
 My final goal is to see Rock Buddy up on the Google Play store. Please keep an eye out!
 
 ## Contributors
-UI/UX design by Jordan Ireland. \n
-I wrote all the code.\n
+UI/UX and logo design by Jordan Ireland: jaireland34@gmail.com
+I wrote all the code.
 For feature ideas please reach out! I can be contacted via email: elisonnathan@gmail.com. 
 Thank you!
 
