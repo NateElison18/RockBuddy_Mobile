@@ -9,7 +9,7 @@ This is a work in progress and once completed will act as my Stech Capstone proj
 After developing Rock Buddy for desktop, I wanted to create a mobile edition to be more accessable.
 
 ## How to Run
-Users will need to install the APK on their Android device. Once installed, they will need to follow the instructures to grant the app permission to access files. Thats it! 
+The device MUST be in dark mode. Users will need to install the APK on their Android device. Once installed, they will need to follow the instructures to grant the app permission to access files. Thats it! 
 
 ## Screenshots
 <div >
