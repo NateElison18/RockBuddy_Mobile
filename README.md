@@ -9,7 +9,7 @@ This is a work in progress and once completed will act as my Stech Capstone proj
 After developing Rock Buddy for desktop, I wanted to create a mobile edition to be more accessable.
 
 ## How to Run
-The device MUST be in dark mode. Users will need to install the APK on their Android device. Once installed, they will need to follow the instructures to grant the app permission to access files. Thats it! 
+It is recommended the device be in dark mode. Users will need to install the APK on their Android device. Once installed, they will need to follow the instructions to grant the app permission to access files. Thats it! 
 
 ## Screenshots
 <div >
@@ -21,7 +21,7 @@ The device MUST be in dark mode. Users will need to install the APK on their And
 
 
 ## Coming Soon
-I'm currently reworking the add sample function to be more user friendly. I'm also working on getting a collection filter up and running.
+I'm working on getting a collection filter up and running and building out the frontend to be able to tie multiple images to a single sample.
 My final goal is to see Rock Buddy up on the Google Play store. Please keep an eye out!
 
 ## Contributors
